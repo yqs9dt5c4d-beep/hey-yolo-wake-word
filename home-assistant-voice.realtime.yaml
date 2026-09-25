@@ -2012,7 +2012,7 @@ external_components:
   #   - source: {type: local, path: esphome/components}
   - source:
       type: git
-      url: https://github.com/TristanBrotherton/voicepe-realtime-firmware
+      url: https://github.com/yqs9dt5c4d-beep/hey-yolo-wake-word
       ref: main
     components: [va_client]
     refresh: 0s
