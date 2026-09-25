@@ -4,7 +4,7 @@
   "label": "Hey Yolo",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
-  "model": "https://raw.githubusercontent.com/yqs9dt5c4d-beep/hey-yolo-wake-word/main/models/hey_yolo.tflite",
+  "model": "https://github.com/esphome/micro-wake-word-models/raw/main/models/okay_nabu.json",
   "trained_languages": [
     "en"
   ],
